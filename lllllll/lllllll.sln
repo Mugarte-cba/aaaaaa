@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lllllll", "lllllll\lllllll.csproj", "{ECB4BC94-B4D9-421A-9658-CB71BE764B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tes", "tes\tes.csproj", "{5D1F729D-0B20-4930-93DD-BEA23077C4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB4BC94-B4D9-421A-9658-CB71BE764B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB4BC94-B4D9-421A-9658-CB71BE764B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB4BC94-B4D9-421A-9658-CB71BE764B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB4BC94-B4D9-421A-9658-CB71BE764B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1F729D-0B20-4930-93DD-BEA23077C4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1F729D-0B20-4930-93DD-BEA23077C4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1F729D-0B20-4930-93DD-BEA23077C4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1F729D-0B20-4930-93DD-BEA23077C4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
